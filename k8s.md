@@ -48,3 +48,10 @@ Node 分成2種：Worker Node 及 Master Node。<br>
 
 ## 
  
+
+
+
+[Tags]
+==
+
+###### tags:  `k8s` `Kubernetes`
